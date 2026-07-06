@@ -1,4 +1,4 @@
-### Hey, I'm Darasimi 👋
+### Hey, I'm Jonathan 👋
 
 I'm a Frontend Developer who builds clean, functional websites and mobile apps with **React** and **React Native**. I care about the small details — smooth interactions, clean UI, code that actually works the way it's supposed to — over just shipping something that "technically" runs.
 
